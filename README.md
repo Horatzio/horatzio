@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, World! 👋 I'm Horace
 
-<!--
-**Horatzio/horatzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a programmer with a passion for all things code-related, and metacode related.
 
-Here are some ideas to get you started:
+> Creativity and ingenuity are what differentiates man from animal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Creation is the core of my creed.
+
+💻 I am a professional software engineer with experience in a variety of languages and frameworks.
+
+🔧 Through my projects, I aim to build tools that make developers' (and not only!) lives easier.
+
+🌱 I'm a firm believer in the power of continuous learning.
+
+🤝 I believe that pooling our collective expertise and resources is essential to achieving success
+
+📫 You can reach me at: [horatiuduma@gmail.com](mailto:horatiuduma@gmail.com)
